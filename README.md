@@ -2,7 +2,7 @@
 
 ## Connect with me:
 
-[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/ghioldieduardo/) [![Twitter](https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg)](#) [![Google Chrome](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](#)
 
 ## Programming Languages
 
