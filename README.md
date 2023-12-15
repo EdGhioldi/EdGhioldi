@@ -6,28 +6,30 @@
 
 ## Programming Languages
 
-- [Java](https://www.java.com) ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+| Java | JavaScript |
+|------|------------|
+| [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com) | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 
 ## Frontend Developer
 
-- [HTML5](https://www.w3.org/html/) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- [CSS3](https://www.w3schools.com/css/) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- [Sass](https://sass-lang.com) ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-- [Tailwind CSS](https://tailwindcss.com/) ![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+| HTML5 | CSS3 | Sass | Tailwind CSS |
+|-------|------|------|--------------|
+| [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | [![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)](https://sass-lang.com) | [![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) |
 
 ## Backend Developer
 
-- [Node.js](https://nodejs.org) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- [Spring](https://spring.io/) ![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+| Node.js | Spring |
+|---------|--------|
+| [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org) | [![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)](https://spring.io/) |
 
 ## Database
 
-- [MongoDB](https://www.mongodb.com/) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- [MySQL](https://www.mysql.com/) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- [PostgreSQL](https://www.postgresql.org) ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-- [SQLite](https://www.sqlite.org/) ![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
+| MongoDB | MySQL | PostgreSQL | SQLite |
+|---------|-------|------------|--------|
+| [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/) | [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/) | [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org) | [![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)](https://www.sqlite.org/) |
 
 ## Other
 
-- [Git](https://git-scm.com/) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+| Git |
+|-----|
+| [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) |
