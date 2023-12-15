@@ -1,8 +1,7 @@
 # A developer from Argentina
 
 ## Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/ghioldieduardo/){:target="_blank"}| [Twitter](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/ghioldieduardo/){:target="_blank"}|  | [Twitter](#) | [Portfolio](#)
 
 ## Programming Languages
 
