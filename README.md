@@ -6,6 +6,10 @@
 - Discord [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](#)
 - Portfolio [![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](#)
 
+- LinkedIn [![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/ghioldieduardo/){:height="20px" width="20px"}
+- Discord [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](#){:height="20px" width="20px"}
+- Portfolio [![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](#){:height="20px" width="20px"}
+
 
 
 
