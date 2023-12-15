@@ -2,7 +2,7 @@
 
 ## Connect with me:
 
-[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/ghioldieduardo/)| [Twitter](#) | [Portfolio](#)
 
 ## Programming Languages
 
