@@ -39,8 +39,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGhioldi&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdGhioldi&theme=dark&show_icons=true&count_private=true" />
+<br></br>
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EdGhioldi&theme=dark&hide_border=false" />
 
-https://camo.githubusercontent.com/f41e31e9ca430ff2cbd0f8042e90035a89fc8b7744f86cce032d621f20470ba3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d313031306e697368616e74267468656d653d6461726b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565
-https://camo.githubusercontent.com/43b4098fcc7e2071b0aea74d14d4e9fd59a3d06d98f435eaf18ae9fad563dca6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d313031306e697368616e74267468656d653d6461726b26686964655f626f726465723d66616c7365
-https://camo.githubusercontent.com/87a8e8037a8bb30678d7f556a99502a9936778737421c0b8d449645632f3e22f/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d313031306e697368616e74267468656d653d6461726b26686964655f626f726465723d66616c7365266e6f2d62673d74727565266e6f2d6672616d653d74727565266c616e67735f636f756e743d3130
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EdGhioldi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
