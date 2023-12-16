@@ -35,13 +35,23 @@
 |-----|
 | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdGhioldi&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,contribs&theme=dark&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&line_height=24&hide_border=true&bg_color=00000000)
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=EdGhioldi&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EdGhioldi&theme=dark&hide_border=false" /> 
+</td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGhioldi&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
+<td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EdGhioldi&theme=dark&show_icons=true&count_private=true" />
-<br></br>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EdGhioldi&theme=dark&hide_border=false" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EdGhioldi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EdGhioldi&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
