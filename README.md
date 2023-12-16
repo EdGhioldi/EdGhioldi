@@ -2,8 +2,12 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/ghioldieduardo/) [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/users/1051568512742727790)
-[![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](#)[![Gmail](https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg)](mailto:ghioldigahonaeduardo@gmail.com)
+## Connect with me:
+
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/ghioldieduardo/) 
+[![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/users/1051568512742727790)
+[![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](URL_DEL_PORTFOLIO)
+[![Gmail](https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg)](mailto:ghioldigahonaeduardo@gmail.com)
 
 
 
