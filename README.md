@@ -2,7 +2,8 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/ghioldieduardo/) [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](#) [![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](#)
+[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/ghioldieduardo/) [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/users/1051568512742727790)
+[![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](#)
 
 
 ## Programming Languages
