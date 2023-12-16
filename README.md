@@ -35,7 +35,6 @@
 |-----|
 | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdGhioldi&show_icons=true&hide=prs,issues,contribs)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdGhioldi&show_icons=true&hide_title=true&hide_rank=true&hide=prs,issues,contribs&theme=dark&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&line_height=24&hide_border=true&bg_color=00000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdGhioldi&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
