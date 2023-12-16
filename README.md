@@ -35,3 +35,6 @@
 |-----|
 | [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/) |
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide=prs,issues,contribs)
+
+
