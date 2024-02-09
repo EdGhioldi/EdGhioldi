@@ -8,21 +8,18 @@
 [![Discord](https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg)](https://discord.com/users/1051568512742727790)
 [![Portfolio](https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg)](URL_DEL_PORTFOLIO)
 
+### Programming Languages
 
 
-## Programming Languages
+| Java | JavaScript | TypeScript |
+|------|------------|------------|
+| [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com) | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
 
-| Java | JavaScript |
-|------|------------|
-| [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com) | [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+### Frontend Developer
 
-## Frontend Developer
-
-| HTML5 | CSS3 |   Sass   | Tailwind | Bootstrap |
-|-------|------|----------|----------|-----------|
-| [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | [![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)](https://sass-lang.com) | [![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) | [![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com/) |
-
-
+| HTML5 | CSS3 |   Sass   | Tailwind | Bootstrap | Angular |
+|-------|------|----------|----------|-----------|---------|
+| [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | [![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)](https://sass-lang.com) | [![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) | [![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com/) | [![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)](https://angular.io/)
 ## Backend Developer
 
 | Node.js | Spring |
